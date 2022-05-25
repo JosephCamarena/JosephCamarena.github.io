@@ -278,7 +278,9 @@ th {
 
 img {
   height: auto;
-  line-height: 0;
+  display: block;
+  max-width: 100%;
+  margin: 1.5em auto 1.6em auto;
 }
 
 .singular-attachment img {
