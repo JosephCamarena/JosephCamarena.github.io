@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://josephcamarena.github.io/post/advanced-web-security/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/post/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
     <loc>https://josephcamarena.github.io/categories/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/tags/dynamic/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
-    <loc>https://josephcamarena.github.io/</loc>
-    <lastmod>2022-02-04T14:45:45-07:00</lastmod>
-  </url><url>
     <loc>https://josephcamarena.github.io/tags/malware-analysis/</loc>
-    <lastmod>2022-02-04T14:45:45-07:00</lastmod>
-  </url><url>
-    <loc>https://josephcamarena.github.io/post/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/categories/projects/</loc>
