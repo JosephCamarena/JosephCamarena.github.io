@@ -5,22 +5,46 @@
     <loc>https://josephcamarena.github.io/post/advanced-web-security/</loc>
     <lastmod>2022-03-18T10:00:51-07:00</lastmod>
   </url><url>
+    <loc>https://josephcamarena.github.io/categories/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/dos/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
     <loc>https://josephcamarena.github.io/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/penetration-test/</loc>
     <lastmod>2022-03-18T10:00:51-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/post/</loc>
     <lastmod>2022-03-18T10:00:51-07:00</lastmod>
   </url><url>
-    <loc>https://josephcamarena.github.io/categories/</loc>
-    <lastmod>2022-02-04T14:45:45-07:00</lastmod>
+    <loc>https://josephcamarena.github.io/categories/projects/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/redos/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/social-engineering/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/tabnabbing/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/web-security/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
+  </url><url>
+    <loc>https://josephcamarena.github.io/tags/xss/</loc>
+    <lastmod>2022-03-18T10:00:51-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/tags/dynamic/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/tags/malware-analysis/</loc>
-    <lastmod>2022-02-04T14:45:45-07:00</lastmod>
-  </url><url>
-    <loc>https://josephcamarena.github.io/categories/projects/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/tags/reverse-engineering/</loc>
@@ -30,9 +54,6 @@
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/post/static-and-dynamic-analysis-of-malware/</loc>
-    <lastmod>2022-02-04T14:45:45-07:00</lastmod>
-  </url><url>
-    <loc>https://josephcamarena.github.io/tags/</loc>
     <lastmod>2022-02-04T14:45:45-07:00</lastmod>
   </url><url>
     <loc>https://josephcamarena.github.io/top/about/</loc>

@@ -13,8 +13,8 @@
       <pubDate>Fri, 04 Feb 2022 14:45:45 -0700</pubDate>
       
       <guid>https://josephcamarena.github.io/post/static-and-dynamic-analysis-of-malware/</guid>
-      <description>Overview  NOTE: In accordance with GA Tech&amp;rsquo;s Honor Code, I&amp;rsquo;ll be obfuscating and redacting specific details of this project for prevention of plagiarism.
- The following project, from my Network Security course, is a deep dive into malware analysis. I was tasked with analyzing three real malware samples taken from the wild (Windows, Linux, and Android), recreating the Command and Control (C2) servers, and discovering and tracing the malwares&amp;rsquo; behavior.</description>
+      <description>NOTE: In accordance with GA Tech&amp;rsquo;s Honor Code, I&amp;rsquo;ll be obfuscating and redacting specific details of this project for prevention of plagiarism.
+ Overview The following project, from my Network Security course, is a deep dive into malware analysis. I was tasked with analyzing three real malware samples taken from the wild (Windows, Linux, and Android), recreating the Command and Control (C2) servers, and discovering and tracing the malwares&amp;rsquo; behavior.</description>
     </item>
     
   </channel>
